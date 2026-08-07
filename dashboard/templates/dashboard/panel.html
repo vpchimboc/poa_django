@@ -1,0 +1,97 @@
+{% load static %}<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Panel administrador | POA Institucional {{ anio }}</title>
+    <meta name="robots" content="noindex" />
+    <link rel="stylesheet" href="{% static 'dashboard/app.css' %}" />
+    <style>
+      .adm-grid { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+      .adm label { display: block; font-weight: 600; margin: 14px 0 6px; }
+      .adm input[type="file"], .adm input[type="number"] { width: 100%; padding: 10px 12px; border-radius: 10px; border: 1px solid #d6dbe4; font: inherit; background: #fff; }
+      .adm .btn { margin-top: 18px; border: 0; cursor: pointer; }
+      .msg { padding: 10px 14px; border-radius: 10px; margin-bottom: 10px; font-size: 14px; }
+      .msg.success { background: #e7f6ec; color: #1d6b39; }
+      .msg.error { background: #fdeaea; color: #8f1d1d; }
+      .msg.warning { background: #fdf4e3; color: #8a6116; }
+      .hist { list-style: none; padding: 0; margin: 10px 0 0; font-size: 14px; }
+      .hist li { display: flex; justify-content: space-between; gap: 10px; padding: 8px 0; border-bottom: 1px solid #eef1f5; }
+      .muted { color: #5b6472; }
+    </style>
+  </head>
+  <body>
+    <header class="hero">
+      <div class="wrap">
+        <p class="eyebrow">Administración · POA {{ anio }}</p>
+        <h1>Actualizar datos del dashboard</h1>
+        <p class="lead">
+          Sube la matriz del POA en Excel (.xlsx). El sistema la convierte a JSON, guarda un
+          respaldo del archivo anterior y actualiza el dashboard al instante.
+        </p>
+        <div class="downloads">
+          <a class="btn" href="{% url 'index' %}">Ver dashboard</a>
+          <a class="btn ghost" href="{% url 'panel_logout' %}">Cerrar sesión</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap stack">
+      {% if messages %}
+        <div>
+          {% for m in messages %}<p class="msg {{ m.tags }}">{{ m }}</p>{% endfor %}
+        </div>
+      {% endif %}
+
+      <div class="adm-grid">
+        <section class="panel adm">
+          <h2 style="margin-top: 0">Subir Excel del POA</h2>
+          <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <label for="excel">Archivo Excel (.xlsx)</label>
+            <input id="excel" name="excel" type="file" accept=".xlsx,.xlsm" required />
+            <label for="anio">Año del POA</label>
+            <input id="anio" name="anio" type="number" value="{{ anio }}" min="2000" max="2100" />
+            <button class="btn" type="submit">Convertir y actualizar</button>
+          </form>
+          <p class="muted" style="margin-top: 16px; font-size: 13px">
+            Cada hoja del libro se toma como una unidad; la hoja cuyo nombre contenga
+            «Proyecto» se carga como lista de proyectos. Las columnas se detectan por su
+            encabezado: Objetivo, Tarea, Prioridad, Fecha, Responsable, Entregable, Avance y
+            Observación.
+          </p>
+        </section>
+
+        <section class="panel">
+          <h2 style="margin-top: 0">Datos actuales</h2>
+          <ul class="hist">
+            <li><span>Archivo</span><strong>{{ archivo }}</strong></li>
+            <li><span>Unidades</span><strong>{{ resumen.unidades }}</strong></li>
+            <li><span>Actividades</span><strong>{{ resumen.actividades }}</strong></li>
+            <li><span>Proyectos</span><strong>{{ proyectos }}</strong></li>
+            <li><span>Observaciones</span><strong>{{ resumen.observaciones }}</strong></li>
+          </ul>
+          <p style="margin-top: 16px">
+            <a class="btn ghost" href="{% url 'descargar_json' %}">Descargar JSON actual</a>
+          </p>
+        </section>
+
+        <section class="panel">
+          <h2 style="margin-top: 0">Respaldos</h2>
+          {% if historial %}
+            <ul class="hist">
+              {% for h in historial %}
+                <li>
+                  <span>{{ h.fecha }} <span class="muted">· {{ h.kb }} KB</span></span>
+                  <a href="{% url 'restaurar_respaldo' h.nombre %}">Restaurar</a>
+                </li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <p class="muted">Aún no hay respaldos. Se generan automáticamente en cada carga.</p>
+          {% endif %}
+        </section>
+      </div>
+    </main>
+  </body>
+</html>

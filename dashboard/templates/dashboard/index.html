@@ -1,0 +1,96 @@
+{% load static %}<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dashboard POA Institucional {{ anio }} | Seguimiento por unidad</title>
+    <meta
+      name="description"
+      content="Dashboard interactivo del POA Institucional {{ anio }}: busca por unidad, revisa el avance de cumplimiento, actividades planificadas y observaciones."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=Manrope:wght@400;500;600;700&display=swap"
+    />
+    <link rel="stylesheet" href="{% static 'dashboard/app.css' %}" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="wrap">
+        <p class="eyebrow">Seguimiento institucional · {{ anio }}</p>
+        <h1>Dashboard POA Institucional</h1>
+        <p class="lead">
+          Consulta el avance de cumplimiento por unidad, sus actividades planificadas y las
+          observaciones registradas en la matriz de gestión por resultados.
+        </p>
+        <div class="downloads">
+          <a class="btn" href="{% url 'descargar_csv' %}">Descargar CSV (Excel)</a>
+          <a class="btn ghost" href="{% url 'descargar_json' %}">Descargar JSON</a>
+          <a class="btn ghost" href="{% url 'panel' %}">Panel administrador</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap stack">
+      <section class="kpis">
+        <div class="panel kpi">
+          <span class="kpi-label">Avance promedio</span>
+          <strong id="kpi-promedio">—</strong>
+          <small id="kpi-unidades"></small>
+        </div>
+        <div class="panel kpi">
+          <span class="kpi-label">Actividades</span>
+          <strong id="kpi-actividades">—</strong>
+          <small id="kpi-completadas"></small>
+        </div>
+        <div class="panel kpi">
+          <span class="kpi-label">Sin iniciar</span>
+          <strong id="kpi-sin">—</strong>
+          <small>Actividades con 0% de avance</small>
+        </div>
+        <div class="panel kpi">
+          <span class="kpi-label">Observaciones</span>
+          <strong id="kpi-obs">—</strong>
+          <small>Resultados y notas registradas</small>
+        </div>
+      </section>
+
+      <section class="panel filters">
+        <input
+          id="q"
+          type="search"
+          placeholder="Buscar unidad, carrera o responsable…"
+          autocomplete="off"
+        />
+        <div class="chips" id="chips">
+          <button class="chip active" data-cat="Todas">Todas</button>
+          {% for c in categorias %}<button class="chip" data-cat="{{ c }}">{{ c }}</button>{% endfor %}
+        </div>
+      </section>
+
+      <section class="split">
+        <aside class="panel list">
+          <div class="list-head"><span id="count">0</span> resultados</div>
+          <ul id="unidades"></ul>
+        </aside>
+        <div class="panel detalle" id="detalle"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Comparativo de avance por unidad</h2>
+        <p class="muted">Porcentaje promedio de ejecución de las actividades registradas.</p>
+        <div id="chart" class="chart"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Proyectos institucionales {{ anio }}</h2>
+        <ul class="proyectos" id="proyectos"></ul>
+      </section>
+    </main>
+
+    <script id="poa-data" type="application/json">{{ poa_json|safe }}</script>
+    <script src="{% static 'dashboard/app.js' %}"></script>
+  </body>
+</html>
