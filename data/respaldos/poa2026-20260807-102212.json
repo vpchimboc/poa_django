@@ -5325,8 +5325,8 @@
    "titulo": "Gestión por Resultados de la Carrera de Tecnología Superior en Administración de Infraestructura y Plataformas Tecnológicas 2026",
    "categoria": "Carrera",
    "responsable": "Galarza Rodas Monica Fernanda",
-   "avance": 0.5132,
-   "avanceActividades": 0.5132,
+   "avance": 0.3476,
+   "avanceActividades": 0.3476,
    "totalActividades": 44,
    "actividades": [
     {
@@ -5337,8 +5337,8 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Plan de capacitación docente.",
      "descripcion": null,
-     "avance": 1.0,
-     "observacion": null,
+     "avance": 0.0,
+     "observacion": "El plan de largo plazo que se coloca es del ciclo 2025, pero se requiere el del año 2026.",
      "estado": false
     },
     {
@@ -5373,8 +5373,8 @@
      "responsable": "Responsable de moodle de la carrera",
      "entregable": "Informe de socialización / induccion a los docentes",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se agregará el informe del período 2026-I",
+     "avance": 0.0,
+     "observacion": "El informe no se encuentra en las evidencias. En el segundo semestre se agregará el informe del período 2026-I",
      "estado": false
     },
     {
@@ -5397,8 +5397,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Convocatoria al colectivo de académico",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se agregará la convocatoria del período 2026-II",
+     "avance": 0.0,
+     "observacion": "Está cargada la convocatoria al colectivo del ciclo 2025-I, pero debe cargarse la del ciclo 2026-I. En el segundo semestre se agregará la convocatoria del período 2026-II",
      "estado": false
     },
     {
@@ -5409,7 +5409,7 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Acervo bibliográfico de todas las asignaturas de la carrera",
      "descripcion": null,
-     "avance": 0.5,
+     "avance": 0.25,
      "observacion": "En el segundo semestre se agregará el acervo bibliográfico del ciclo 2026-I.",
      "estado": false
     },
@@ -5421,8 +5421,8 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Informes de colectivos y PEAS revisados",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se agregarán los informes de colectivos y PEAs del ciclo 2026-I.",
+     "avance": 0.25,
+     "observacion": "No constan los PEAs revisados del ciclo 2025-II y no consta la información del ciclo 2026-I",
      "estado": false
     },
     {
@@ -5445,8 +5445,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Distributivo docente aprobado.",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se agregará el distributivo del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "El documento del distributivo no se puede abrir, al parecer el archivo está dañado o corrupto. Recuerde que este archivo debe estar aprobado con firmas y sellos.",
      "estado": false
     },
     {
@@ -5565,8 +5565,8 @@
      "responsable": "Director/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase SEGUIMIENTO: INICIO: Socialización de Tutorías Académicas DURANTE: Registro de Calificaciones del Primer Parcial FINAL : Registro de Calificacion Finales",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.0,
+     "observacion": "NO existen evidencias de este punto.",
      "estado": false
     },
     {
@@ -5577,8 +5577,8 @@
      "responsable": "Director/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase CONTROL: INICIO: Matriz consolidada de resultados de Pruebas de Diagnostico DURANTE: Matriz consolidada de resultados de Calificaciones del Primer Parcial FINAL : Matriz consolidada de resultados de Calificaciones Finales",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.05,
+     "observacion": "La documentación del ciclo 2025-II no está subida. La matriz consolidada de resultados de pruebas de diagnóstico del primer parcial del ciclo 2026-I está incompleta. NO consta la matriz consolidada de resultados de calificaciones del primer parcial del ciclo 2026-I. La matriz consolidada de resultados de calificaciones finales del ciclo 2026-I se debe subir en el segundo semestre.",
      "estado": true
     },
     {
@@ -5589,8 +5589,8 @@
      "responsable": "Director/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase EVALAUCIÓN: INICIO: Acta de reunión de inicio de ciclo estudiantes DURANTE: Acta de reunión del Primer Parcial Docentes - Estudiantes FINAL : Acta de reunión Final - Docentes - Estudiantes",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.16,
+     "observacion": "La documentación del ciclo 2025-II no está subida. NO consta el acta de reunión del primer parcial docentes-estudiantes del ciclo 2026-I. NO consta el acta de reunión final docentes-estudiantes del ciclo 2026-I.",
      "estado": true
     },
     {
@@ -5601,8 +5601,8 @@
      "responsable": "Coordinador/a carrera Responsable de Seguimiento a graduados de la carrera",
      "entregable": "Informe de plan de mejoramiento curricular",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.0,
+     "observacion": "El informe que se coloca en esta carpeta corresponde al ciclo 2025-I, pero se deben subir los informes de los ciclos 2025-II y 2026-I en el segundo quimestre.",
      "estado": false
     },
     {
@@ -5685,8 +5685,8 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "ITV de los convenios.",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "NO se registraron nuevos convenios en el ciclo 2026-I.",
+     "avance": 0.0,
+     "observacion": "No registra ningún ITV en el ciclo 2026-I, en el segundo quiestre se subirá del ciclo 2026-II",
      "estado": false
     },
     {
@@ -5697,8 +5697,8 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "Informe de la divulgación.",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "El informe del ciclo 2026-I se debe subir en el segundo quimestre.",
+     "avance": 0.0,
+     "observacion": "No registra los informes de divulgación en los ciclos 2025-II y 2026-I",
      "estado": false
     },
     {
@@ -5781,8 +5781,8 @@
      "responsable": "Coordinador/a carrera Gestor Académico",
      "entregable": "Horario de laboratorios y aulas",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "Los horarios del ciclo 2026-II se debe subir en el segundo quimestre.",
+     "avance": 0.0,
+     "observacion": "NO constan los horarios y aulas de ninguno de los ciclos 2026-I y 2026-II.",
      "estado": false
     },
     {
@@ -5799,9 +5799,9 @@
     },
     {
      "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.07894736842",
+     "tarea": "0.05263157895",
      "prioridad": null,
-     "fecha": "3",
+     "fecha": "2",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -5811,21 +5811,9 @@
     },
     {
      "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.8684210526",
+     "tarea": "0.5526315789",
      "prioridad": null,
-     "fecha": "33",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
+     "fecha": "21",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -5838,6 +5826,18 @@
      "tarea": "0.05263157895",
      "prioridad": null,
      "fecha": "2",
+     "responsable": null,
+     "entregable": null,
+     "descripcion": null,
+     "avance": null,
+     "observacion": null,
+     "estado": true
+    },
+    {
+     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
+     "tarea": "0.3421052632",
+     "prioridad": null,
+     "fecha": "13",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -5866,8 +5866,8 @@
    "titulo": "Gestión por Resultados de la Carrera de Tecnología Superior Universitaria en Desarrollo de Software 2026",
    "categoria": "Carrera",
    "responsable": "Galarza Rodas Monica Fernanda",
-   "avance": 0.4403,
-   "avanceActividades": 0.4403,
+   "avance": 0.4074,
+   "avanceActividades": 0.4074,
    "totalActividades": 44,
    "actividades": [
     {
@@ -5902,8 +5902,8 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Registro de entrega de evaluaciones a los docentes",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.0,
+     "observacion": "Las evaluaciones docentes que se agregan no pertenecen a los ciclos 2025-II y 2026-I.",
      "estado": false
     },
     {
@@ -5938,8 +5938,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Convocatoria al colectivo de académico",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre deberá cargarse la del ciclo 2026-II",
+     "avance": 0.0,
+     "observacion": "No está cargada la convocatoria al colectivo del ciclo 2026-I y en el segundo semestre deberá cargarse la del ciclo 2026-II",
      "estado": false
     },
     {
@@ -6034,8 +6034,8 @@
      "responsable": "Coordinador/a carrera - gestor académico",
      "entregable": "Informe de carrera sobre la documentación recibida.",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "El informe de documentación del ciclo 2026-I se debe subir en el segundo semestre.",
+     "avance": 0.25,
+     "observacion": "El informe de documentación del ciclo 2026-I se debe subir en el segundo semestre. Mejorar la calidad dell documento, no es legible.",
      "estado": false
     },
     {
@@ -6323,7 +6323,7 @@
      "entregable": "Horario de laboratorios y aulas",
      "descripcion": null,
      "avance": 0.0,
-     "observacion": "NO constan los horarios y aulas de ninguno de los ciclos 2026-I y en el segundo semestre se agregarán los del ciclo 2026-II.",
+     "observacion": "NO constan los horarios y aulas de ninguno de los ciclos 2025-II y 2026-I",
      "estado": false
     },
     {
@@ -6352,9 +6352,9 @@
     },
     {
      "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.6315789474",
+     "tarea": "0.5526315789",
      "prioridad": null,
-     "fecha": "24",
+     "fecha": "21",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -6364,9 +6364,9 @@
     },
     {
      "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.02631578947",
+     "tarea": "0.05263157895",
      "prioridad": null,
-     "fecha": "1",
+     "fecha": "2",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -6376,9 +6376,9 @@
     },
     {
      "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.2368421053",
+     "tarea": "0.2894736842",
      "prioridad": null,
-     "fecha": "9",
+     "fecha": "11",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -6407,8 +6407,8 @@
    "titulo": "Gestión por Resultados de la Carrera de Tecnología Superior en Desarrollo de Software 2026",
    "categoria": "Carrera",
    "responsable": "Galarza Rodas Monica Fernanda",
-   "avance": 0.4205,
-   "avanceActividades": 0.4205,
+   "avance": 0.4074,
+   "avanceActividades": 0.4074,
    "totalActividades": 44,
    "actividades": [
     {
@@ -6479,8 +6479,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Convocatoria al colectivo de académico",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre deberá cargarse la del ciclo 2026-II",
+     "avance": 0.0,
+     "observacion": "No está cargada la convocatoria al colectivo del ciclo 2026-I y en el segundo semestre deberá cargarse la del ciclo 2026-II",
      "estado": false
     },
     {
@@ -6893,9 +6893,9 @@
     },
     {
      "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.5789473684",
+     "tarea": "0.5526315789",
      "prioridad": null,
-     "fecha": "22",
+     "fecha": "21",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -6917,9 +6917,9 @@
     },
     {
      "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.2631578947",
+     "tarea": "0.2894736842",
      "prioridad": null,
-     "fecha": "10",
+     "fecha": "11",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -6948,8 +6948,8 @@
    "titulo": "Plantilla de Gestión por Resultados de la Carrera Tecnologia Superior en Big Data",
    "categoria": "Carrera",
    "responsable": "Bernal Ortiz Priscila Elizabeth",
-   "avance": 0.5329,
-   "avanceActividades": 0.5329,
+   "avance": 0.4247,
+   "avanceActividades": 0.4247,
    "totalActividades": 44,
    "actividades": [
     {
@@ -7092,8 +7092,8 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Calendario y horarios aprobados",
      "descripcion": "Realizar los documentos necesarios para el desarrollo de las actividades de cada periodo de la carrera",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe subir la documentación del ciclo 2026-II",
+     "avance": 0.25,
+     "observacion": "NO constan los horarios aprobados del ciclo 2026-I. En el segundo semestre se debe subir la documentación del ciclo 2026-II",
      "estado": false
     },
     {
@@ -7104,8 +7104,8 @@
      "responsable": "Coordinador/a carrera - gestor académico",
      "entregable": "Documentación aprobada.",
      "descripcion": "Solicitud de documentos académicos por materias",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deberá subir la documentación del ciclo 2026-I.",
+     "avance": 0.25,
+     "observacion": "No existe un link que permita la revisar la documentación del ciclo 2025-II, los documentos son: Sílabos, guías practicas e informes de avance de Silabo. En el segundo semestre se deberá subir la documentación del ciclo 2026-I.",
      "estado": false
     },
     {
@@ -7176,8 +7176,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Documento de designación de tutores por parte del director de carrera",
      "descripcion": "Realizar las designaciones y evidenciar los responsables y tutores de la carrera",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre debe subir el documento del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO está subido este documento del ciclo 2026-I. En el segundo semestre debe subir el documento del ciclo 2026-II.",
      "estado": false
     },
     {
@@ -7188,8 +7188,8 @@
      "responsable": "Coordinador/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase SEGUIMIENTO: INICIO: Socialización de Tutorías Académicas DURANTE: Registro de Calificaciones del Primer Parcial FINAL : Registro de Calificación Finales",
      "descripcion": "Realizar el Seguimiento del modelo metodológico",
-     "avance": 0.5,
-     "observacion": "NO consta el registro de calificaciones del primer parcial del ciclo 2026-I. NO consta el registro de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
+     "avance": 0.16,
+     "observacion": "NO consta la documentación del ciclo 2025-II. NO consta el registro de calificaciones del primer parcial del ciclo 2026-I. NO consta el registro de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -7200,8 +7200,8 @@
      "responsable": "Coordinador/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase CONTROL: INICIO: Matriz consolidada de resultados de Pruebas de Diagnostico DURANTE: Matriz consolidada de resultados de Calificaciones del Primer Parcial FINAL : Matriz consolidada de resultados de Calificaciones Finales",
      "descripcion": "Realizar el Control del modelo metodológico",
-     "avance": 0.5,
-     "observacion": "NO consta la matriz consolidada de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
+     "avance": 0.16,
+     "observacion": "NO consta la documentación del ciclo 2025-II. NO consta la matriz consolidada de calificaciones del primer parcial del ciclo 2026-I. NO consta la matriz consolidada de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -7212,8 +7212,8 @@
      "responsable": "Coordinador/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase EVALAUCIÓN: INICIO: Acta de reunión de inicio de ciclo estudiantes DURANTE: Acta de reunión del Primer Parcial Docentes - Estudiantes FINAL : Acta de reunión Final - Docentes - Estudiantes",
      "descripcion": "Realizar la Evaluación del modelo metodológico",
-     "avance": 0.5,
-     "observacion": "El acta de reunión finale del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.32,
+     "observacion": "NO consta la documentación del ciclo 2025-II. El acta de reunión finale del ciclo 2026-I se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -7260,8 +7260,8 @@
      "responsable": "Docentes de la carrera",
      "entregable": "Informe de ejecución de la oferta complementaria.",
      "descripcion": "Analizar y realizar la oferta complementaria",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO consta este informe.",
      "estado": true
     },
     {
@@ -7308,8 +7308,8 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "ITV y los convenios.",
      "descripcion": "Brindar apoyo y realizar ITV de vinculación de la carrera",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deberá subir la información del ciclo 2026-II.",
+     "avance": 0.25,
+     "observacion": "NO consta información sobre los ITVs del ciclo 2026-I. En el segundo semestre se deberá subir la información del ciclo 2026-II.",
      "estado": false
     },
     {
@@ -7320,8 +7320,8 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "Informe de la divulgación.",
      "descripcion": "Realizar la divulgación de los resultados de los proyectos de vinculación",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deberá subir la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": false
     },
     {
@@ -7356,8 +7356,8 @@
      "responsable": "Director de Carrera Docentes de la carrera Comisión de Investigación",
      "entregable": "Artículos publicados por los docentes de la carrera",
      "descripcion": "Incentivar y desarrollar la investigación de los docentes de la carrera en base a las líneas de la carrera",
-     "avance": 1.0,
-     "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "Los artículos que se han agregado tienen fecha de publicación en el 2024, las publicaciones deben corresponder al 2026.",
      "estado": true
     },
     {
@@ -7422,9 +7422,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1052631579",
+     "tarea": "0.07894736842",
      "prioridad": null,
-     "fecha": "4",
+     "fecha": "3",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -7434,9 +7434,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.8421052632",
+     "tarea": "0.6052631579",
      "prioridad": null,
-     "fecha": "32",
+     "fecha": "23",
      "responsable": null,
      "entregable": null,
      "descripcion": "MGTR. PRISCILA ELIZABETH BERNAL ORTIZ",
@@ -7446,9 +7446,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
+     "tarea": "0.1052631579",
      "prioridad": null,
-     "fecha": "0",
+     "fecha": "4",
      "responsable": null,
      "entregable": null,
      "descripcion": "Coordinador@ Tecnología Superior en Big Data",
@@ -7458,9 +7458,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.05263157895",
+     "tarea": "0.2105263158",
      "prioridad": null,
-     "fecha": "2",
+     "fecha": "8",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -9112,8 +9112,8 @@
    "titulo": "Plantilla de Gestion por Resultados de la Carrera Tecnología Superior en Educacion Inicial",
    "categoria": "Carrera",
    "responsable": "Quevedo Castillo Johana Paola",
-   "avance": 0.5615,
-   "avanceActividades": 0.5615,
+   "avance": 0.4851,
+   "avanceActividades": 0.4851,
    "totalActividades": 45,
    "actividades": [
     {
@@ -9196,8 +9196,8 @@
      "responsable": "Coordinador y Gestores Académicos",
      "entregable": "Acervo bibliográfico de todas las asignaturas de la carrera, Informes de colectivos y PEAS revisados",
      "descripcion": "Revisar si la bibliografía de la carrera es la adecuada en colectivos según PEAS y Colectivos para el acervo bibliográfico",
-     "avance": 0.75,
-     "observacion": "En el segundo semestre se deberá subir el registro del ciclo 2026-II.",
+     "avance": 0.32,
+     "observacion": "NO consta la información del ciclo 2025-II. NO constan los PEAs revisados del ciclo 2026-I.",
      "estado": false
     },
     {
@@ -9352,8 +9352,8 @@
      "responsable": "Coordinador /a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase SEGUIMIENTO: INICIO: Socialización de Tutorías Académicas DURANTE: Registro de Calificaciones del Primer Parcial FINAL : Registro de Calificación Finales",
      "descripcion": "Realizar el Seguimiento del modelo metodológico",
-     "avance": 0.75,
-     "observacion": "NO consta el registro de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
+     "avance": 0.4,
+     "observacion": "NO consta la documentación del ciclo 2025-II. NO consta el registro de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -9364,8 +9364,8 @@
      "responsable": "Coordinador /a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase CONTROL: INICIO: Matriz consolidada de resultados de Pruebas de Diagnostico DURANTE: Matriz consolidada de resultados de Calificaciones del Primer Parcial FINAL : Matriz consolidada de resultados de Calificaciones Finales",
      "descripcion": "Realizar el Control del modelo metodológico",
-     "avance": 0.75,
-     "observacion": "NO consta la matriz consolidada de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
+     "avance": 0.4,
+     "observacion": "NO consta la documentación del ciclo 2025-II. NO consta la matriz consolidada de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -9376,8 +9376,8 @@
      "responsable": "Coordinador /a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase EVALUACIÓN: INICIO: Acta de reunión de inicio de ciclo estudiantes DURANTE: Acta de reunión del Primer Parcial Docentes - Estudiantes FINAL : Acta de reunión Final - Docentes - Estudiantes",
      "descripcion": "Realizar la Evaluación del modelo metodológico",
-     "avance": 0.75,
-     "observacion": "El acta de reunión final del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.4,
+     "observacion": "NO consta la documentación del ciclo 2025-II. El acta de reunión final del ciclo 2026-I se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -9424,8 +9424,8 @@
      "responsable": "Docentes de la carrera",
      "entregable": "Informe de ejecución de la oferta complementaria.",
      "descripcion": "Analizar y realizar la oferta complementaria",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO consta este informe.",
      "estado": false
     },
     {
@@ -9568,8 +9568,8 @@
      "responsable": "Coordinador de Carrera Gestor Académico",
      "entregable": "Informe de análisis de recursos e infraestructura necesaria.",
      "descripcion": "Análisis de requerimientos sustantivo y no sustantivo de la carrera",
-     "avance": 1.0,
-     "observacion": null,
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": false
     },
     {
@@ -9610,9 +9610,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.8260869565",
+     "tarea": "0.652173913",
      "prioridad": null,
-     "fecha": "19",
+     "fecha": "15",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -9622,9 +9622,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
+     "tarea": "0.1739130435",
      "prioridad": null,
-     "fecha": "0",
+     "fecha": "4",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -10771,8 +10771,8 @@
    "titulo": "Plantilla de Gestión por Resultados de la Carrera Tecnología Superior en Mecatrónica",
    "categoria": "Carrera",
    "responsable": "Martinez Herrera Pedro David",
-   "avance": 0.5079,
-   "avanceActividades": 0.5079,
+   "avance": 0.4947,
+   "avanceActividades": 0.4947,
    "totalActividades": 44,
    "actividades": [
     {
@@ -11071,7 +11071,7 @@
      "responsable": "responsable plataforma Moodle de la carrera",
      "entregable": "Informe sobre la capacitación",
      "descripcion": "Generar la capacitación estudiantil sobre el Moodle",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "Las evidencias de este objetivo son 2 informes, uno para el ciclo 2026-I y otro para el ciclo 2026-II.",
      "estado": true
     },
@@ -11257,9 +11257,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.7631578947",
+     "tarea": "0.7368421053",
      "prioridad": null,
-     "fecha": "29",
+     "fecha": "28",
      "responsable": null,
      "entregable": null,
      "descripcion": "Realizado por : Mgtr. Pedro Martínez",
@@ -11281,9 +11281,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.07894736842",
+     "tarea": "0.1052631579",
      "prioridad": null,
-     "fecha": "3",
+     "fecha": "4",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -12394,8 +12394,8 @@
    "titulo": "Plantilla de Gestión por Resultados Carrera Tecnología Superior en Producción y Realización Audiovisual",
    "categoria": "Carrera",
    "responsable": "Panza Cajamarca Marco Ivan",
-   "avance": 0.4008,
-   "avanceActividades": 0.4008,
+   "avance": 0.3811,
+   "avanceActividades": 0.3811,
    "totalActividades": 44,
    "actividades": [
     {
@@ -12596,7 +12596,7 @@
      "prioridad": "Baja",
      "fecha": "2026-11-30",
      "responsable": "Director/a carrera - gestor académico",
-     "entregable": "Informe final POA 2026",
+     "entregable": "Informe final POA 2025",
      "descripcion": "Informar sobre el alcance final del POA",
      "avance": 0.0,
      "observacion": "Este informe se debe presentar al final del segundo semestre.",
@@ -12608,7 +12608,7 @@
      "prioridad": "Baja",
      "fecha": "2026-11-30",
      "responsable": "Director/a carrera - gestor académico",
-     "entregable": "POA 2027",
+     "entregable": "POA 2026",
      "descripcion": "Realizar la planificación para el 2026",
      "avance": 0.0,
      "observacion": "Este informe se debe presentar al final del segundo semestre.",
@@ -12754,8 +12754,8 @@
      "responsable": "Director/a carrera -responsable de practicas y vinculación",
      "entregable": "ITV y los convenios.",
      "descripcion": "Brindar apoyo y realizar ITV de vinculación de la carrera",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deben subir los documentos del ciclo 2026-II.",
+     "avance": 0.25,
+     "observacion": "NO existe información de los ITVs sobre el ciclo 2026-I. En el segundo semestre se deben subir los documentos del ciclo 2026-II.",
      "estado": false
     },
     {
@@ -12766,8 +12766,8 @@
      "responsable": "Director/a carrera -responsable de practicas y vinculación",
      "entregable": "Informe de la divulgación.",
      "descripcion": "Realizar la divulgación de los resultados de los proyectos de vinculación",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deben subir los documentos del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO existen estas evidencias.",
      "estado": false
     },
     {
@@ -12880,9 +12880,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.6052631579",
+     "tarea": "0.5526315789",
      "prioridad": null,
-     "fecha": "23",
+     "fecha": "21",
      "responsable": "Realizado por : Mgs. Marco Panza",
      "entregable": null,
      "descripcion": null,
@@ -12892,9 +12892,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.02631578947",
+     "tarea": "0.05263157895",
      "prioridad": null,
-     "fecha": "1",
+     "fecha": "2",
      "responsable": "COORDINADOR DE LA CARRERA DE PRODUCCIÓN Y REALIZACIÓN AUDIOVISUAL CON NIVEL EQUIVALENTE A TECNOLOGÍA SUPERIOR",
      "entregable": null,
      "descripcion": null,
@@ -12904,9 +12904,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.2894736842",
+     "tarea": "0.3157894737",
      "prioridad": null,
-     "fecha": "11",
+     "fecha": "12",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -13476,8 +13476,8 @@
    "titulo": "Plantilla de Gestión por Resultados de la Carrera Tecnología Superior en Seguridad y Prevención de Riesgos Laborales",
    "categoria": "Carrera",
    "responsable": "Martinez Herrera Pedro David",
-   "avance": 0.4868,
-   "avanceActividades": 0.4868,
+   "avance": 0.4342,
+   "avanceActividades": 0.4342,
    "totalActividades": 44,
    "actividades": [
     {
@@ -13776,7 +13776,7 @@
      "responsable": "Responsable plataforma Moodle de la carrera",
      "entregable": "Informe sobre la capacitación",
      "descripcion": "Generar la capacitación estudiantil sobre el Moodle",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "NO constan las evidencias de este objetivo, son 2 informes, uno para el ciclo 2026-I y otro para el ciclo 2026-II.",
      "estado": false
     },
@@ -13896,8 +13896,8 @@
      "responsable": "Coordinador de carrera - Gestor académico - Bienestar institucional",
      "entregable": "Informe de formación en valores y desarrollo de habilidades blandas",
      "descripcion": "Realizar un curso de habilidades blandas que se desarrollara para todo el instituto",
-     "avance": 0.5,
-     "observacion": "En el ciclo 2026-II se debe complementar la información.",
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": true
     },
     {
@@ -13908,8 +13908,8 @@
      "responsable": "Coordinador de Carrera Gestor Académico",
      "entregable": "Matrices de la oferta académica.",
      "descripcion": "Generación de matrices de oferta académica para la captación de más estudiantes",
-     "avance": 0.5,
-     "observacion": "En el ciclo 2026-II se debe complementar la información.",
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": true
     },
     {
@@ -13920,8 +13920,8 @@
      "responsable": "Coordinador de Carrera Gestor Académico",
      "entregable": "Listado certificado de matriculados de la carrera",
      "descripcion": "Planificar la demanda institucional en base a históricos de periodos anteriores",
-     "avance": 0.5,
-     "observacion": "En el ciclo 2026-II se debe complementar la información.",
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": true
     },
     {
@@ -13962,9 +13962,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.7631578947",
+     "tarea": "0.6578947368",
      "prioridad": null,
-     "fecha": "29",
+     "fecha": "25",
      "responsable": null,
      "entregable": null,
      "descripcion": null,
@@ -13986,9 +13986,9 @@
     },
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1315789474",
+     "tarea": "0.2368421053",
      "prioridad": null,
-     "fecha": "5",
+     "fecha": "9",
      "responsable": null,
      "entregable": null,
      "descripcion": null,

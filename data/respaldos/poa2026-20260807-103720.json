@@ -9,7 +9,7 @@
    "responsable": "Rossi Paola Urgiles Arévalo",
    "avance": 0.2778,
    "avanceActividades": 0.2778,
-   "totalActividades": 15,
+   "totalActividades": 9,
    "actividades": [
     {
      "objetivo": "Garantizar la planificación, ejecución y seguimiento efectivo del Plan Operativo Anual (POA) de la unidad en pro del cumplimiento de los objetivos y actividades propuestas",
@@ -118,78 +118,6 @@
      "avance": 0.5,
      "observacion": "No se valida correos se debe de adjuntar el oficio de respaldo.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "INDICADORES",
-     "prioridad": null,
-     "fecha": null,
-     "responsable": "N° IND",
-     "entregable": null,
-     "descripcion": "%",
-     "avance": null,
-     "observacion": null,
-     "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "VERDE",
-     "prioridad": null,
-     "fecha": null,
-     "responsable": "0",
-     "entregable": null,
-     "descripcion": "0",
-     "avance": null,
-     "observacion": null,
-     "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "AMARILLO",
-     "prioridad": null,
-     "fecha": null,
-     "responsable": "5",
-     "entregable": null,
-     "descripcion": "0.5555555556",
-     "avance": null,
-     "observacion": null,
-     "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "NARANJA",
-     "prioridad": null,
-     "fecha": null,
-     "responsable": "0",
-     "entregable": null,
-     "descripcion": "0",
-     "avance": null,
-     "observacion": null,
-     "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "ROJO",
-     "prioridad": null,
-     "fecha": null,
-     "responsable": "4",
-     "entregable": null,
-     "descripcion": "0.4444444444",
-     "avance": null,
-     "observacion": null,
-     "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "TOTAL:",
-     "prioridad": null,
-     "fecha": null,
-     "responsable": "9",
-     "entregable": null,
-     "descripcion": "1",
-     "avance": null,
-     "observacion": null,
-     "estado": false
     }
    ],
    "nombreOficial": "UNIDAD DE RELACIONES INTERNACIONALES E INTERNACIONALES"
@@ -202,7 +130,7 @@
    "responsable": "Tinoco Maldonado Iliana Alexandra",
    "avance": 0.5444,
    "avanceActividades": 0.5444,
-   "totalActividades": 24,
+   "totalActividades": 18,
    "actividades": [
     {
      "objetivo": "1- Gestionar eficientemente el Plan operativo Anual (POA) de la Unidad incluyendo su elaboración, seguimiento mediante reportes de cumplimiento, procesamiento de solicitudes de reprogramación y la elaboración de informes de evaluación para garantizar el logro de los objetivos establecidos.",
@@ -419,78 +347,6 @@
      "avance": 0.5,
      "observacion": "Se suguiere se presente un repositorio donde estan las artes",
      "estado": true
-    },
-    {
-     "objetivo": "Garantizar la eficacia y calidad en la difusión de materiales de imagen corporativa y comunicación, así como el manejo adecuado de recursos económicos y materiales, mediante la supervisión integral de la gestión de recursos y producción en la Unidad de Comunicación",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": 0.5444,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Garantizar la eficacia y calidad en la difusión de materiales de imagen corporativa y comunicación, así como el manejo adecuado de recursos económicos y materiales, mediante la supervisión integral de la gestión de recursos y producción en la Unidad de Comunicación",
-     "tarea": "0.2222222222",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Garantizar la eficacia y calidad en la difusión de materiales de imagen corporativa y comunicación, así como el manejo adecuado de recursos económicos y materiales, mediante la supervisión integral de la gestión de recursos y producción en la Unidad de Comunicación",
-     "tarea": "0.6666666667",
-     "prioridad": null,
-     "fecha": "12",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Garantizar la eficacia y calidad en la difusión de materiales de imagen corporativa y comunicación, así como el manejo adecuado de recursos económicos y materiales, mediante la supervisión integral de la gestión de recursos y producción en la Unidad de Comunicación",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Garantizar la eficacia y calidad en la difusión de materiales de imagen corporativa y comunicación, así como el manejo adecuado de recursos económicos y materiales, mediante la supervisión integral de la gestión de recursos y producción en la Unidad de Comunicación",
-     "tarea": "0.1111111111",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Garantizar la eficacia y calidad en la difusión de materiales de imagen corporativa y comunicación, así como el manejo adecuado de recursos económicos y materiales, mediante la supervisión integral de la gestión de recursos y producción en la Unidad de Comunicación",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "18",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "UNIDAD DE COMUNICACIÓN"
@@ -503,7 +359,7 @@
    "responsable": "Ortiz Urgilés Claudio Fernando",
    "avance": 0.3125,
    "avanceActividades": 0.3125,
-   "totalActividades": 22,
+   "totalActividades": 16,
    "actividades": [
     {
      "objetivo": "Garantizar la eficaz planificación, ejecución y evaluación del Plan Operativo Anual (POA).",
@@ -696,78 +552,6 @@
      "avance": 0.0,
      "observacion": "No hay evidencias",
      "estado": false
-    },
-    {
-     "objetivo": "Generar y proveer informacion que requiera la Unidad de Aseguramiento de la Calidad para los procesos de acreditacion.",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": 0.3125,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Generar y proveer informacion que requiera la Unidad de Aseguramiento de la Calidad para los procesos de acreditacion.",
-     "tarea": "0.1875",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Generar y proveer informacion que requiera la Unidad de Aseguramiento de la Calidad para los procesos de acreditacion.",
-     "tarea": "0.25",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Generar y proveer informacion que requiera la Unidad de Aseguramiento de la Calidad para los procesos de acreditacion.",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Generar y proveer informacion que requiera la Unidad de Aseguramiento de la Calidad para los procesos de acreditacion.",
-     "tarea": "0.5625",
-     "prioridad": null,
-     "fecha": "9",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Generar y proveer informacion que requiera la Unidad de Aseguramiento de la Calidad para los procesos de acreditacion.",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "16",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "UNIDAD DE SECRETARÍA GENERAL"
@@ -780,7 +564,7 @@
    "responsable": "Paola Idrovo Matute",
    "avance": 0.62,
    "avanceActividades": 0.62,
-   "totalActividades": 16,
+   "totalActividades": 10,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -901,78 +685,6 @@
      "avance": 0.2,
      "observacion": "No se han recibido las propuestas de nuevo reglamento o reformas a reglamento por más unidades o coordinaciones que la de Calidad.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.6",
-     "prioridad": null,
-     "fecha": "6",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.4",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "10",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "UNIDAD DE ASESORIA JURÍDICA"
@@ -985,7 +697,7 @@
    "responsable": "Gina Paulina Naranjo Cuesta",
    "avance": 0.5694,
    "avanceActividades": 0.5694,
-   "totalActividades": 57,
+   "totalActividades": 51,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -1598,78 +1310,6 @@
      "avance": 0.5,
      "observacion": null,
      "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "0.1",
-     "prioridad": null,
-     "fecha": "1",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": 0.5694,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "0.5",
-     "prioridad": null,
-     "fecha": "5",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "0.2",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "0.2",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 4",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "10",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "UNIDAD ADMINISTRATIVA"
@@ -1682,7 +1322,7 @@
    "responsable": "Chimbo Coronel Veronica Paulina",
    "avance": 0.5231,
    "avanceActividades": 0.5231,
-   "totalActividades": 19,
+   "totalActividades": 13,
    "actividades": [
     {
      "objetivo": "Desarrollar y ejecutar un proceso integral de gestión del Plan Operativo Anual, con el fin de garantizar el logro efectivo de los objetivos estratégicos y la rendición de cuentas transparente.",
@@ -1839,78 +1479,6 @@
      "avance": 1.0,
      "observacion": null,
      "estado": false
-    },
-    {
-     "objetivo": "Desarrollar y ejecutar un proceso integral de gestión del Plan Operativo Anual, con el fin de garantizar el logro efectivo de los objetivos estratégicos y la rendición de cuentas transparente.",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": "Mgtr. Verónica Paulina Chimbo Coronel",
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar y ejecutar un proceso integral de gestión del Plan Operativo Anual, con el fin de garantizar el logro efectivo de los objetivos estratégicos y la rendición de cuentas transparente.",
-     "tarea": "#DIV/0!",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": "Responsable de la Unidad de Planificación Estratégica",
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar y ejecutar un proceso integral de gestión del Plan Operativo Anual, con el fin de garantizar el logro efectivo de los objetivos estratégicos y la rendición de cuentas transparente.",
-     "tarea": "#DIV/0!",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar y ejecutar un proceso integral de gestión del Plan Operativo Anual, con el fin de garantizar el logro efectivo de los objetivos estratégicos y la rendición de cuentas transparente.",
-     "tarea": "#DIV/0!",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar y ejecutar un proceso integral de gestión del Plan Operativo Anual, con el fin de garantizar el logro efectivo de los objetivos estratégicos y la rendición de cuentas transparente.",
-     "tarea": "#DIV/0!",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar y ejecutar un proceso integral de gestión del Plan Operativo Anual, con el fin de garantizar el logro efectivo de los objetivos estratégicos y la rendición de cuentas transparente.",
-     "tarea": "#DIV/0!",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "UNIDAD DE PLANIFICACIÓN ESTRATÉGICA"
@@ -1923,7 +1491,7 @@
    "responsable": "Gloria Isabel Pinos Arizaga",
    "avance": 0.5,
    "avanceActividades": 0.5,
-   "totalActividades": 29,
+   "totalActividades": 23,
    "actividades": [
     {
      "objetivo": "Gestionar eficientemente el Plan Operativo Anual (POA) de la coordinación, incluyendo su elaboración, seguimiento mediante reportes de cumplimiento, procesamiento de solicitudes de reprogramación, y la elaboración de informes de evaluación para garantizar el logro de los objetivos establecidos.",
@@ -2200,78 +1768,6 @@
      "avance": 0.5,
      "observacion": null,
      "estado": false
-    },
-    {
-     "objetivo": "Desarrollar el sistema de seguimiento a graduados mediante el diseño, asegurando una gestión efectiva de la información y la implementación de mejoras en el sistema.",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar el sistema de seguimiento a graduados mediante el diseño, asegurando una gestión efectiva de la información y la implementación de mejoras en el sistema.",
-     "tarea": "0.2",
-     "prioridad": null,
-     "fecha": "4.0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar el sistema de seguimiento a graduados mediante el diseño, asegurando una gestión efectiva de la información y la implementación de mejoras en el sistema.",
-     "tarea": "0.5",
-     "prioridad": null,
-     "fecha": "10.0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar el sistema de seguimiento a graduados mediante el diseño, asegurando una gestión efectiva de la información y la implementación de mejoras en el sistema.",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0.0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar el sistema de seguimiento a graduados mediante el diseño, asegurando una gestión efectiva de la información y la implementación de mejoras en el sistema.",
-     "tarea": "0.3",
-     "prioridad": null,
-     "fecha": "6.0",
-     "responsable": null,
-     "entregable": "Realizado por : Lcda.Johana Paola Quevedo Castillo,Mgtr",
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar el sistema de seguimiento a graduados mediante el diseño, asegurando una gestión efectiva de la información y la implementación de mejoras en el sistema.",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "20.0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "UNIDAD DE BIENESTAR INSTITUCIONAL"
@@ -2284,7 +1780,7 @@
    "responsable": "Roberto Carranza Ochoa",
    "avance": 0.1818,
    "avanceActividades": 0.1818,
-   "totalActividades": 28,
+   "totalActividades": 22,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1 Dirigir la elaboración, seguimiento y evaluación del Plan Operativo Anual (POA) de la unidad, incluyendo la generación de reportes de cumplimiento y la gestión de solicitudes de reprogramación.",
@@ -2549,78 +2045,6 @@
      "avance": 0.0,
      "observacion": null,
      "estado": true
-    },
-    {
-     "objetivo": "Elaborar el reporte del Índice Ocupacional.",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Elaborar el reporte del Índice Ocupacional.",
-     "tarea": "0.1818181818",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Elaborar el reporte del Índice Ocupacional.",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Elaborar el reporte del Índice Ocupacional.",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Ing. Roberto Nataniel Carranza Ochoa",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Elaborar el reporte del Índice Ocupacional.",
-     "tarea": "0.8181818182",
-     "prioridad": null,
-     "fecha": "18",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "RESPONSABLE DE LA UNIDAD DE TTHH",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Elaborar el reporte del Índice Ocupacional.",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "22",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "UNIDAD DE TALENTO HUMANO"
@@ -2633,7 +2057,7 @@
    "responsable": "Fernanda Elizabeth Manosalvas Durán",
    "avance": 0.3958,
    "avanceActividades": 0.3958,
-   "totalActividades": 42,
+   "totalActividades": 36,
    "actividades": [
     {
      "objetivo": "Presentación el plan operativo anual (POA).",
@@ -3066,78 +2490,6 @@
      "avance": 0.5,
      "observacion": "El informe no consta con firma de validacion",
      "estado": false
-    },
-    {
-     "objetivo": "Consolidación de alianzas estratégicas con actores claves del sector público y privado.",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Consolidación de alianzas estratégicas con actores claves del sector público y privado.",
-     "tarea": "0.1944444444",
-     "prioridad": null,
-     "fecha": "7",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Consolidación de alianzas estratégicas con actores claves del sector público y privado.",
-     "tarea": "0.3333333333",
-     "prioridad": null,
-     "fecha": "12",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Consolidación de alianzas estratégicas con actores claves del sector público y privado.",
-     "tarea": "0.1111111111",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Consolidación de alianzas estratégicas con actores claves del sector público y privado.",
-     "tarea": "0.3611111111",
-     "prioridad": null,
-     "fecha": "13",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Consolidación de alianzas estratégicas con actores claves del sector público y privado.",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "36",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "COORDINACIÓN DE INVESTIGACIÓN, DESARROLLO TECNOLÓGICO E INNOVACIÓN"
@@ -3148,9 +2500,9 @@
    "titulo": "Plantilla de Gestion por Resultados de la Jefatura de Vinculación con la Sociedad",
    "categoria": "Unidad Académica",
    "responsable": "Victoria Marilyn Salazar P.",
-   "avance": 0.2143,
+   "avance": 0.0,
    "avanceActividades": 0.2143,
-   "totalActividades": 41,
+   "totalActividades": 35,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1 (Presentación del plan operativo anual 2025)",
@@ -3571,78 +2923,6 @@
      "avance": 0.0,
      "observacion": "No hay evidencias",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 6",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": 0.2143,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 6",
-     "tarea": "0.05714285714",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 6",
-     "tarea": "0.2857142857",
-     "prioridad": null,
-     "fecha": "10",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 6",
-     "tarea": "0.05714285714",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 6",
-     "tarea": "0.6",
-     "prioridad": null,
-     "fecha": "21",
-     "responsable": null,
-     "entregable": "Lcda. Victoria Marilyn Salazar P.",
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 6",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "35",
-     "responsable": null,
-     "entregable": "Coordinadora de Vinculación de la Sociedad",
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "COORDINACIÓN DE VINCULACIÓN CON LA SOCIEDAD"
@@ -3655,7 +2935,7 @@
    "responsable": "Rodríguez López Yamila Magdalena",
    "avance": 0.5833,
    "avanceActividades": 0.5833,
-   "totalActividades": 30,
+   "totalActividades": 24,
    "actividades": [
     {
      "objetivo": "Desarrollar acciones precisas que conlleven al cumplimiento de las actividades del Centro de Formación Integral y de Servicios Especializados.",
@@ -3944,78 +3224,6 @@
      "avance": 1.0,
      "observacion": null,
      "estado": false
-    },
-    {
-     "objetivo": "Establecer un sistema eficiente de atención a requerimientos externos que garantice la provisión oportuna de información y recursos bibliográficos.",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Establecer un sistema eficiente de atención a requerimientos externos que garantice la provisión oportuna de información y recursos bibliográficos.",
-     "tarea": "0.25",
-     "prioridad": null,
-     "fecha": "1900-01-06",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Establecer un sistema eficiente de atención a requerimientos externos que garantice la provisión oportuna de información y recursos bibliográficos.",
-     "tarea": "0.6666666667",
-     "prioridad": null,
-     "fecha": "1900-01-16",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Establecer un sistema eficiente de atención a requerimientos externos que garantice la provisión oportuna de información y recursos bibliográficos.",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "00:00:00",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Establecer un sistema eficiente de atención a requerimientos externos que garantice la provisión oportuna de información y recursos bibliográficos.",
-     "tarea": "0.08333333333",
-     "prioridad": null,
-     "fecha": "1900-01-02",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Establecer un sistema eficiente de atención a requerimientos externos que garantice la provisión oportuna de información y recursos bibliográficos.",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "1900-01-24",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "COORDINACIÓN DEL CENTRO DE FORMACIÓN INTEGRAL Y DE SERVICIOS ESPECIALIZADOS"
@@ -4028,7 +3236,7 @@
    "responsable": "Brito Saavedra Francisco Israel",
    "avance": 0.575,
    "avanceActividades": 0.575,
-   "totalActividades": 26,
+   "totalActividades": 20,
    "actividades": [
     {
      "objetivo": "Presentación del plan operativo anual (POA) 2027.",
@@ -4269,78 +3477,6 @@
      "avance": 0.5,
      "observacion": null,
      "estado": false
-    },
-    {
-     "objetivo": "Desarrollar actividades administrativas de la Coordinación.",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar actividades administrativas de la Coordinación.",
-     "tarea": "0.5",
-     "prioridad": null,
-     "fecha": "1900-01-10",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar actividades administrativas de la Coordinación.",
-     "tarea": "0.15",
-     "prioridad": null,
-     "fecha": "1900-01-03",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar actividades administrativas de la Coordinación.",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "00:00:00",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar actividades administrativas de la Coordinación.",
-     "tarea": "0.35",
-     "prioridad": null,
-     "fecha": "1900-01-07",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Desarrollar actividades administrativas de la Coordinación.",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "1900-01-20",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "COORDINACIÓN DEL CENTRO DE IDIOMAS"
@@ -4353,7 +3489,7 @@
    "responsable": "Jessica Priscila Herrera Urgilés",
    "avance": 0.4359,
    "avanceActividades": 0.4359,
-   "totalActividades": 45,
+   "totalActividades": 39,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -4822,78 +3958,6 @@
      "avance": 0.5,
      "observacion": null,
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "00:00:00",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.7777777778",
-     "prioridad": null,
-     "fecha": "1900-01-28",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1111111111",
-     "prioridad": null,
-     "fecha": "1900-01-04",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1111111111",
-     "prioridad": null,
-     "fecha": "1900-01-04",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "1900-02-05",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "COORDINACIÓN ACADÉMICA INSTITUCIONAL"
@@ -4906,7 +3970,7 @@
    "responsable": "Hector Raul Mejia Vanegas",
    "avance": 0.5792,
    "avanceActividades": 0.5792,
-   "totalActividades": 34,
+   "totalActividades": 28,
    "actividades": [
     {
      "objetivo": null,
@@ -5243,78 +4307,6 @@
      "avance": 0.0,
      "observacion": null,
      "estado": false
-    },
-    {
-     "objetivo": null,
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": null,
-     "tarea": "0.5",
-     "prioridad": null,
-     "fecha": "12",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": null,
-     "tarea": "0.125",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": null,
-     "tarea": "0.04166666667",
-     "prioridad": null,
-     "fecha": "1",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": null,
-     "tarea": "0.3333333333",
-     "prioridad": null,
-     "fecha": "8",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": null,
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "24",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "UNIDAD DE ASEGURAMIENTO DE LA CALIDAD"
@@ -5325,9 +4317,9 @@
    "titulo": "Gestión por Resultados de la Carrera de Tecnología Superior en Administración de Infraestructura y Plataformas Tecnológicas 2026",
    "categoria": "Carrera",
    "responsable": "Galarza Rodas Monica Fernanda",
-   "avance": 0.5132,
-   "avanceActividades": 0.5132,
-   "totalActividades": 44,
+   "avance": 0.3476,
+   "avanceActividades": 0.3476,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "Mejorar los conocimientos, habilidades y conductas de los docentes de carrera.",
@@ -5337,8 +4329,8 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Plan de capacitación docente.",
      "descripcion": null,
-     "avance": 1.0,
-     "observacion": null,
+     "avance": 0.0,
+     "observacion": "El plan de largo plazo que se coloca es del ciclo 2025, pero se requiere el del año 2026.",
      "estado": false
     },
     {
@@ -5373,8 +4365,8 @@
      "responsable": "Responsable de moodle de la carrera",
      "entregable": "Informe de socialización / induccion a los docentes",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se agregará el informe del período 2026-I",
+     "avance": 0.0,
+     "observacion": "El informe no se encuentra en las evidencias. En el segundo semestre se agregará el informe del período 2026-I",
      "estado": false
     },
     {
@@ -5397,8 +4389,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Convocatoria al colectivo de académico",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se agregará la convocatoria del período 2026-II",
+     "avance": 0.0,
+     "observacion": "Está cargada la convocatoria al colectivo del ciclo 2025-I, pero debe cargarse la del ciclo 2026-I. En el segundo semestre se agregará la convocatoria del período 2026-II",
      "estado": false
     },
     {
@@ -5409,7 +4401,7 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Acervo bibliográfico de todas las asignaturas de la carrera",
      "descripcion": null,
-     "avance": 0.5,
+     "avance": 0.25,
      "observacion": "En el segundo semestre se agregará el acervo bibliográfico del ciclo 2026-I.",
      "estado": false
     },
@@ -5421,8 +4413,8 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Informes de colectivos y PEAS revisados",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se agregarán los informes de colectivos y PEAs del ciclo 2026-I.",
+     "avance": 0.25,
+     "observacion": "No constan los PEAs revisados del ciclo 2025-II y no consta la información del ciclo 2026-I",
      "estado": false
     },
     {
@@ -5445,8 +4437,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Distributivo docente aprobado.",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se agregará el distributivo del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "El documento del distributivo no se puede abrir, al parecer el archivo está dañado o corrupto. Recuerde que este archivo debe estar aprobado con firmas y sellos.",
      "estado": false
     },
     {
@@ -5565,8 +4557,8 @@
      "responsable": "Director/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase SEGUIMIENTO: INICIO: Socialización de Tutorías Académicas DURANTE: Registro de Calificaciones del Primer Parcial FINAL : Registro de Calificacion Finales",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.0,
+     "observacion": "NO existen evidencias de este punto.",
      "estado": false
     },
     {
@@ -5577,8 +4569,8 @@
      "responsable": "Director/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase CONTROL: INICIO: Matriz consolidada de resultados de Pruebas de Diagnostico DURANTE: Matriz consolidada de resultados de Calificaciones del Primer Parcial FINAL : Matriz consolidada de resultados de Calificaciones Finales",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.05,
+     "observacion": "La documentación del ciclo 2025-II no está subida. La matriz consolidada de resultados de pruebas de diagnóstico del primer parcial del ciclo 2026-I está incompleta. NO consta la matriz consolidada de resultados de calificaciones del primer parcial del ciclo 2026-I. La matriz consolidada de resultados de calificaciones finales del ciclo 2026-I se debe subir en el segundo semestre.",
      "estado": true
     },
     {
@@ -5589,8 +4581,8 @@
      "responsable": "Director/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase EVALAUCIÓN: INICIO: Acta de reunión de inicio de ciclo estudiantes DURANTE: Acta de reunión del Primer Parcial Docentes - Estudiantes FINAL : Acta de reunión Final - Docentes - Estudiantes",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.16,
+     "observacion": "La documentación del ciclo 2025-II no está subida. NO consta el acta de reunión del primer parcial docentes-estudiantes del ciclo 2026-I. NO consta el acta de reunión final docentes-estudiantes del ciclo 2026-I.",
      "estado": true
     },
     {
@@ -5601,8 +4593,8 @@
      "responsable": "Coordinador/a carrera Responsable de Seguimiento a graduados de la carrera",
      "entregable": "Informe de plan de mejoramiento curricular",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.0,
+     "observacion": "El informe que se coloca en esta carpeta corresponde al ciclo 2025-I, pero se deben subir los informes de los ciclos 2025-II y 2026-I en el segundo quimestre.",
      "estado": false
     },
     {
@@ -5685,8 +4677,8 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "ITV de los convenios.",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "NO se registraron nuevos convenios en el ciclo 2026-I.",
+     "avance": 0.0,
+     "observacion": "No registra ningún ITV en el ciclo 2026-I, en el segundo quiestre se subirá del ciclo 2026-II",
      "estado": false
     },
     {
@@ -5697,8 +4689,8 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "Informe de la divulgación.",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "El informe del ciclo 2026-I se debe subir en el segundo quimestre.",
+     "avance": 0.0,
+     "observacion": "No registra los informes de divulgación en los ciclos 2025-II y 2026-I",
      "estado": false
     },
     {
@@ -5781,81 +4773,9 @@
      "responsable": "Coordinador/a carrera Gestor Académico",
      "entregable": "Horario de laboratorios y aulas",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "Los horarios del ciclo 2026-II se debe subir en el segundo quimestre.",
+     "avance": 0.0,
+     "observacion": "NO constan los horarios y aulas de ninguno de los ciclos 2026-I y 2026-II.",
      "estado": false
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.07894736842",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.8684210526",
-     "prioridad": null,
-     "fecha": "33",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR DE ADMINISTRACIÓN DE INFRAESTRUCTURA Y PLATAFORMAS TECNOLÓGICAS"
@@ -5866,9 +4786,9 @@
    "titulo": "Gestión por Resultados de la Carrera de Tecnología Superior Universitaria en Desarrollo de Software 2026",
    "categoria": "Carrera",
    "responsable": "Galarza Rodas Monica Fernanda",
-   "avance": 0.4403,
-   "avanceActividades": 0.4403,
-   "totalActividades": 44,
+   "avance": 0.4074,
+   "avanceActividades": 0.4074,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "Mejorar los conocimientos, habilidades y conductas de los docentes de carrera.",
@@ -5902,8 +4822,8 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Registro de entrega de evaluaciones a los docentes",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "La documentación del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.0,
+     "observacion": "Las evaluaciones docentes que se agregan no pertenecen a los ciclos 2025-II y 2026-I.",
      "estado": false
     },
     {
@@ -5938,8 +4858,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Convocatoria al colectivo de académico",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre deberá cargarse la del ciclo 2026-II",
+     "avance": 0.0,
+     "observacion": "No está cargada la convocatoria al colectivo del ciclo 2026-I y en el segundo semestre deberá cargarse la del ciclo 2026-II",
      "estado": false
     },
     {
@@ -6034,8 +4954,8 @@
      "responsable": "Coordinador/a carrera - gestor académico",
      "entregable": "Informe de carrera sobre la documentación recibida.",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "El informe de documentación del ciclo 2026-I se debe subir en el segundo semestre.",
+     "avance": 0.25,
+     "observacion": "El informe de documentación del ciclo 2026-I se debe subir en el segundo semestre. Mejorar la calidad dell documento, no es legible.",
      "estado": false
     },
     {
@@ -6323,80 +5243,8 @@
      "entregable": "Horario de laboratorios y aulas",
      "descripcion": null,
      "avance": 0.0,
-     "observacion": "NO constan los horarios y aulas de ninguno de los ciclos 2026-I y en el segundo semestre se agregarán los del ciclo 2026-II.",
+     "observacion": "NO constan los horarios y aulas de ninguno de los ciclos 2025-II y 2026-I",
      "estado": false
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.1052631579",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.6315789474",
-     "prioridad": null,
-     "fecha": "24",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.02631578947",
-     "prioridad": null,
-     "fecha": "1",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.2368421053",
-     "prioridad": null,
-     "fecha": "9",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR UNIVERSITARIA EN DESARROLLO DE SOFTWARE"
@@ -6407,9 +5255,9 @@
    "titulo": "Gestión por Resultados de la Carrera de Tecnología Superior en Desarrollo de Software 2026",
    "categoria": "Carrera",
    "responsable": "Galarza Rodas Monica Fernanda",
-   "avance": 0.4205,
-   "avanceActividades": 0.4205,
-   "totalActividades": 44,
+   "avance": 0.4074,
+   "avanceActividades": 0.4074,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "Mejorar los conocimientos, habilidades y conductas de los docentes de carrera.",
@@ -6479,8 +5327,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Convocatoria al colectivo de académico",
      "descripcion": null,
-     "avance": 0.5,
-     "observacion": "En el segundo semestre deberá cargarse la del ciclo 2026-II",
+     "avance": 0.0,
+     "observacion": "No está cargada la convocatoria al colectivo del ciclo 2026-I y en el segundo semestre deberá cargarse la del ciclo 2026-II",
      "estado": false
     },
     {
@@ -6866,78 +5714,6 @@
      "avance": 0.0,
      "observacion": "NO constan los horarios y aulas de ninguno de los ciclos 2026-I y 2026-II.",
      "estado": false
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.1052631579",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.5789473684",
-     "prioridad": null,
-     "fecha": "22",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "0.2631578947",
-     "prioridad": null,
-     "fecha": "10",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "Ampliar la oferta académica según las necesidades del sector productivo y las necesidades públicas",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN DESARROLLO DE SOFTWARE"
@@ -6948,9 +5724,9 @@
    "titulo": "Plantilla de Gestión por Resultados de la Carrera Tecnologia Superior en Big Data",
    "categoria": "Carrera",
    "responsable": "Bernal Ortiz Priscila Elizabeth",
-   "avance": 0.5329,
-   "avanceActividades": 0.5329,
-   "totalActividades": 44,
+   "avance": 0.0,
+   "avanceActividades": 0.4116,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -6972,8 +5748,8 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Informe de ejecución del plan de capacitación docente.",
      "descripcion": "informar sobre el plan de capacitación docente",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deberá subir el registro del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO consta este informe.",
      "estado": false
     },
     {
@@ -7092,8 +5868,8 @@
      "responsable": "Coordinador/a carrera Docentes",
      "entregable": "Calendario y horarios aprobados",
      "descripcion": "Realizar los documentos necesarios para el desarrollo de las actividades de cada periodo de la carrera",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe subir la documentación del ciclo 2026-II",
+     "avance": 0.25,
+     "observacion": "NO constan los horarios aprobados del ciclo 2026-I. En el segundo semestre se debe subir la documentación del ciclo 2026-II",
      "estado": false
     },
     {
@@ -7104,8 +5880,8 @@
      "responsable": "Coordinador/a carrera - gestor académico",
      "entregable": "Documentación aprobada.",
      "descripcion": "Solicitud de documentos académicos por materias",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deberá subir la documentación del ciclo 2026-I.",
+     "avance": 0.25,
+     "observacion": "No existe un link que permita la revisar la documentación del ciclo 2025-II, los documentos son: Sílabos, guías practicas e informes de avance de Silabo. En el segundo semestre se deberá subir la documentación del ciclo 2026-I.",
      "estado": false
     },
     {
@@ -7176,8 +5952,8 @@
      "responsable": "Coordinador/a carrera",
      "entregable": "Documento de designación de tutores por parte del director de carrera",
      "descripcion": "Realizar las designaciones y evidenciar los responsables y tutores de la carrera",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre debe subir el documento del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO está subido este documento del ciclo 2026-I. En el segundo semestre debe subir el documento del ciclo 2026-II.",
      "estado": false
     },
     {
@@ -7188,8 +5964,8 @@
      "responsable": "Coordinador/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase SEGUIMIENTO: INICIO: Socialización de Tutorías Académicas DURANTE: Registro de Calificaciones del Primer Parcial FINAL : Registro de Calificación Finales",
      "descripcion": "Realizar el Seguimiento del modelo metodológico",
-     "avance": 0.5,
-     "observacion": "NO consta el registro de calificaciones del primer parcial del ciclo 2026-I. NO consta el registro de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
+     "avance": 0.16,
+     "observacion": "NO consta la documentación del ciclo 2025-II. NO consta el registro de calificaciones del primer parcial del ciclo 2026-I. NO consta el registro de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -7200,8 +5976,8 @@
      "responsable": "Coordinador/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase CONTROL: INICIO: Matriz consolidada de resultados de Pruebas de Diagnostico DURANTE: Matriz consolidada de resultados de Calificaciones del Primer Parcial FINAL : Matriz consolidada de resultados de Calificaciones Finales",
      "descripcion": "Realizar el Control del modelo metodológico",
-     "avance": 0.5,
-     "observacion": "NO consta la matriz consolidada de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
+     "avance": 0.16,
+     "observacion": "NO consta la documentación del ciclo 2025-II. NO consta la matriz consolidada de calificaciones del primer parcial del ciclo 2026-I. NO consta la matriz consolidada de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -7212,8 +5988,8 @@
      "responsable": "Coordinador/a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase EVALAUCIÓN: INICIO: Acta de reunión de inicio de ciclo estudiantes DURANTE: Acta de reunión del Primer Parcial Docentes - Estudiantes FINAL : Acta de reunión Final - Docentes - Estudiantes",
      "descripcion": "Realizar la Evaluación del modelo metodológico",
-     "avance": 0.5,
-     "observacion": "El acta de reunión finale del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.32,
+     "observacion": "NO consta la documentación del ciclo 2025-II. El acta de reunión finale del ciclo 2026-I se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -7260,8 +6036,8 @@
      "responsable": "Docentes de la carrera",
      "entregable": "Informe de ejecución de la oferta complementaria.",
      "descripcion": "Analizar y realizar la oferta complementaria",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO consta este informe.",
      "estado": true
     },
     {
@@ -7308,8 +6084,8 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "ITV y los convenios.",
      "descripcion": "Brindar apoyo y realizar ITV de vinculación de la carrera",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deberá subir la información del ciclo 2026-II.",
+     "avance": 0.25,
+     "observacion": "NO consta información sobre los ITVs del ciclo 2026-I. En el segundo semestre se deberá subir la información del ciclo 2026-II.",
      "estado": false
     },
     {
@@ -7320,8 +6096,8 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "Informe de la divulgación.",
      "descripcion": "Realizar la divulgación de los resultados de los proyectos de vinculación",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deberá subir la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": false
     },
     {
@@ -7356,8 +6132,8 @@
      "responsable": "Director de Carrera Docentes de la carrera Comisión de Investigación",
      "entregable": "Artículos publicados por los docentes de la carrera",
      "descripcion": "Incentivar y desarrollar la investigación de los docentes de la carrera en base a las líneas de la carrera",
-     "avance": 1.0,
-     "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "Los artículos que se han agregado tienen fecha de publicación en el 2024, las publicaciones deben corresponder al 2026.",
      "estado": true
     },
     {
@@ -7407,78 +6183,6 @@
      "avance": 1.0,
      "observacion": null,
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1052631579",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.8421052632",
-     "prioridad": null,
-     "fecha": "32",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "MGTR. PRISCILA ELIZABETH BERNAL ORTIZ",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Coordinador@ Tecnología Superior en Big Data",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN BIG DATA"
@@ -7491,7 +6195,7 @@
    "responsable": "Bernal Ortiz Priscila Elizabeth",
    "avance": 0.5347,
    "avanceActividades": 0.5347,
-   "totalActividades": 44,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -7948,78 +6652,6 @@
      "avance": 0.5,
      "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.07894736842",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.8684210526",
-     "prioridad": null,
-     "fecha": "33",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Realizado por : Ing. Priscila Bernal O.",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Directora Tecnología Superior en Ciberseguridad",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN CIBERSEGURIDAD"
@@ -8032,7 +6664,7 @@
    "responsable": "Pacheco Guerrero Alexandra Elizabeth",
    "avance": 0.2518,
    "avanceActividades": 0.2518,
-   "totalActividades": 44,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -8489,78 +7121,6 @@
      "avance": 0.0,
      "observacion": "NO constan estas evidencias.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.3684210526",
-     "prioridad": null,
-     "fecha": "14",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Directora Tecnología Superior en Contabilidad",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.5789473684",
-     "prioridad": null,
-     "fecha": "22",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR CONTABILIDAD"
@@ -8573,7 +7133,7 @@
    "responsable": "Pacheco Guerrero Alexandra Elizabeth",
    "avance": 0.0526,
    "avanceActividades": 0.0526,
-   "totalActividades": 44,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -9030,78 +7590,6 @@
      "avance": 0.0,
      "observacion": "NO constan estas evidencias.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Directora Tecnología Superior en Tributación",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.9473684211",
-     "prioridad": null,
-     "fecha": "36",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN TRIBUTACIÓN"
@@ -9112,9 +7600,9 @@
    "titulo": "Plantilla de Gestion por Resultados de la Carrera Tecnología Superior en Educacion Inicial",
    "categoria": "Carrera",
    "responsable": "Quevedo Castillo Johana Paola",
-   "avance": 0.5615,
-   "avanceActividades": 0.5615,
-   "totalActividades": 45,
+   "avance": 0.4851,
+   "avanceActividades": 0.4851,
+   "totalActividades": 39,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -9196,8 +7684,8 @@
      "responsable": "Coordinador y Gestores Académicos",
      "entregable": "Acervo bibliográfico de todas las asignaturas de la carrera, Informes de colectivos y PEAS revisados",
      "descripcion": "Revisar si la bibliografía de la carrera es la adecuada en colectivos según PEAS y Colectivos para el acervo bibliográfico",
-     "avance": 0.75,
-     "observacion": "En el segundo semestre se deberá subir el registro del ciclo 2026-II.",
+     "avance": 0.32,
+     "observacion": "NO consta la información del ciclo 2025-II. NO constan los PEAs revisados del ciclo 2026-I.",
      "estado": false
     },
     {
@@ -9352,8 +7840,8 @@
      "responsable": "Coordinador /a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase SEGUIMIENTO: INICIO: Socialización de Tutorías Académicas DURANTE: Registro de Calificaciones del Primer Parcial FINAL : Registro de Calificación Finales",
      "descripcion": "Realizar el Seguimiento del modelo metodológico",
-     "avance": 0.75,
-     "observacion": "NO consta el registro de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
+     "avance": 0.4,
+     "observacion": "NO consta la documentación del ciclo 2025-II. NO consta el registro de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -9364,8 +7852,8 @@
      "responsable": "Coordinador /a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase CONTROL: INICIO: Matriz consolidada de resultados de Pruebas de Diagnostico DURANTE: Matriz consolidada de resultados de Calificaciones del Primer Parcial FINAL : Matriz consolidada de resultados de Calificaciones Finales",
      "descripcion": "Realizar el Control del modelo metodológico",
-     "avance": 0.75,
-     "observacion": "NO consta la matriz consolidada de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
+     "avance": 0.4,
+     "observacion": "NO consta la documentación del ciclo 2025-II. NO consta la matriz consolidada de calificaciones finales del ciclo 2026-I, se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -9376,8 +7864,8 @@
      "responsable": "Coordinador /a de carrera - Gestor/a académico Tutores de curso",
      "entregable": "Fase EVALUACIÓN: INICIO: Acta de reunión de inicio de ciclo estudiantes DURANTE: Acta de reunión del Primer Parcial Docentes - Estudiantes FINAL : Acta de reunión Final - Docentes - Estudiantes",
      "descripcion": "Realizar la Evaluación del modelo metodológico",
-     "avance": 0.75,
-     "observacion": "El acta de reunión final del ciclo 2026-I se subirá en el segundo semestre.",
+     "avance": 0.4,
+     "observacion": "NO consta la documentación del ciclo 2025-II. El acta de reunión final del ciclo 2026-I se subirá en el segundo semestre.",
      "estado": false
     },
     {
@@ -9424,8 +7912,8 @@
      "responsable": "Docentes de la carrera",
      "entregable": "Informe de ejecución de la oferta complementaria.",
      "descripcion": "Analizar y realizar la oferta complementaria",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO consta este informe.",
      "estado": false
     },
     {
@@ -9568,8 +8056,8 @@
      "responsable": "Coordinador de Carrera Gestor Académico",
      "entregable": "Informe de análisis de recursos e infraestructura necesaria.",
      "descripcion": "Análisis de requerimientos sustantivo y no sustantivo de la carrera",
-     "avance": 1.0,
-     "observacion": null,
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": false
     },
     {
@@ -9583,78 +8071,6 @@
      "avance": 1.0,
      "observacion": null,
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.08695652174",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.8260869565",
-     "prioridad": null,
-     "fecha": "19",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.08695652174",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": "Realizado por : Lcda.Johana Paola Quevedo Castillo,Mgtr",
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "23",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN EDUCACIÓN INICIAL"
@@ -9667,7 +8083,7 @@
    "responsable": "Manosalvas Duran Fernanda Elizabeth",
    "avance": 0.4268,
    "avanceActividades": 0.4268,
-   "totalActividades": 46,
+   "totalActividades": 40,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -10148,78 +8564,6 @@
      "avance": 0.0,
      "observacion": "NO existen estas evidencias.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.625",
-     "prioridad": null,
-     "fecha": "25",
-     "responsable": "Realizado por: Mgtr.Mónica Cumbe",
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.025",
-     "prioridad": null,
-     "fecha": "1",
-     "responsable": "Director Tecnología Superior en Gestión del Patrimonio",
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.25",
-     "prioridad": null,
-     "fecha": "10",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "40",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN GESTIÓN DEL PATRIMONIO HISTÓRICO CULTURAL"
@@ -10232,7 +8576,7 @@
    "responsable": "Criollo Rios Adrian Rodrigo",
    "avance": 0.5332,
    "avanceActividades": 0.5332,
-   "totalActividades": 44,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -10689,78 +9033,6 @@
      "avance": 0.5,
      "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1052631579",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.8157894737",
-     "prioridad": null,
-     "fecha": "31",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Realizado por : Ing. Adrián Criollo Ríos, Mgtr.",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.02631578947",
-     "prioridad": null,
-     "fecha": "1",
-     "responsable": "Coordinador Tecnología Superior en Mantenimiento Eléctrico y Control Industrial",
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN MANTENIMIENTO ELECTRICO Y CONTROL INDUSTRIAL"
@@ -10771,9 +9043,9 @@
    "titulo": "Plantilla de Gestión por Resultados de la Carrera Tecnología Superior en Mecatrónica",
    "categoria": "Carrera",
    "responsable": "Martinez Herrera Pedro David",
-   "avance": 0.5079,
-   "avanceActividades": 0.5079,
-   "totalActividades": 44,
+   "avance": 0.4289,
+   "avanceActividades": 0.4289,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -10831,7 +9103,7 @@
      "responsable": "Responsable de Moodle de la carrera",
      "entregable": "Informe de actividades en la plataforma Moodle.",
      "descripcion": "Controlar el uso adecuado de la plataforma y generar un informe.",
-     "avance": 0.5,
+     "avance": 0.25,
      "observacion": "Consta la convocatoria, pero no consta el informe de actividades del ciclo 2025-II. En el segundo semestre se debe subir el informe del ciclo 2026-I.",
      "estado": false
     },
@@ -10843,7 +9115,7 @@
      "responsable": "Director/a carrera",
      "entregable": "Convocatoria al colectivo académico",
      "descripcion": "Realizar y evidenciar los colectivos académicos",
-     "avance": 0.5,
+     "avance": 0.25,
      "observacion": "La convocatoria al colectivo académico corresponde a los ciclos: 2026-I y 2026-II, y en el segundo semestre se deberá subir del ciclo 2026-II.",
      "estado": false
     },
@@ -11071,7 +9343,7 @@
      "responsable": "responsable plataforma Moodle de la carrera",
      "entregable": "Informe sobre la capacitación",
      "descripcion": "Generar la capacitación estudiantil sobre el Moodle",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "Las evidencias de este objetivo son 2 informes, uno para el ciclo 2026-I y otro para el ciclo 2026-II.",
      "estado": true
     },
@@ -11191,8 +9463,8 @@
      "responsable": "Director de carrera Gestor académico Bienestar institucional",
      "entregable": "Informe de formación en valores y desarrollo de habilidades blandas",
      "descripcion": "Realizar un curso de habilidades blandas que se desarrollara para todo el instituto",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe elaborar un informe de esta socialización para el ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO consta el informe del ciclo 2026-I. En el segundo semestre se debe agregar el informe del ciclo 2026-II.",
      "estado": true
     },
     {
@@ -11203,8 +9475,8 @@
      "responsable": "Director de Carrera Gestor Académico",
      "entregable": "Matrices de la oferta académica.",
      "descripcion": "Generación de matrices de oferta académica para la captación de más estudiantes",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO existen evidencias.",
      "estado": false
     },
     {
@@ -11215,8 +9487,8 @@
      "responsable": "Director de Carrera Gestor Académico",
      "entregable": "Listado certificado de matriculados de la carrera",
      "descripcion": "Planificar la demanda institucional en base a históricos de periodos anteriores",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO existen evidencias.",
      "estado": false
     },
     {
@@ -11227,81 +9499,9 @@
      "responsable": "Director de Carrera Gestor Académico",
      "entregable": "Resolución de aprobación por OCS de Estandarización de Carrera",
      "descripcion": "Análisis de requerimientos sustantivo y no sustantivo de la carrera",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO existen evidencias.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1052631579",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.7631578947",
-     "prioridad": null,
-     "fecha": "29",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Realizado por : Mgtr. Pedro Martínez",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": "Coordinador Tecnología Superior en Mecatrónica",
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.07894736842",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN MECATRÓNICA"
@@ -11314,7 +9514,7 @@
    "responsable": "Narvaez Guzñay Pablo Andres",
    "avance": 0.4276,
    "avanceActividades": 0.4276,
-   "totalActividades": 44,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -11771,78 +9971,6 @@
      "avance": 0.5,
      "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
      "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.07894736842",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.6842105263",
-     "prioridad": null,
-     "fecha": "26",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.02631578947",
-     "prioridad": null,
-     "fecha": "1",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.2105263158",
-     "prioridad": null,
-     "fecha": "8",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN METALMECÁNICA"
@@ -11855,7 +9983,7 @@
    "responsable": "Narvaez Guzñay Pablo Andres",
    "avance": 0.4474,
    "avanceActividades": 0.4474,
-   "totalActividades": 44,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -12312,78 +10440,6 @@
      "avance": 0.5,
      "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
      "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.07894736842",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.7368421053",
-     "prioridad": null,
-     "fecha": "28",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1842105263",
-     "prioridad": null,
-     "fecha": "7",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN PROCESAMIENTO INDUSTRIAL DE LA MADERA"
@@ -12394,9 +10450,9 @@
    "titulo": "Plantilla de Gestión por Resultados Carrera Tecnología Superior en Producción y Realización Audiovisual",
    "categoria": "Carrera",
    "responsable": "Panza Cajamarca Marco Ivan",
-   "avance": 0.4008,
-   "avanceActividades": 0.4008,
-   "totalActividades": 44,
+   "avance": 0.3811,
+   "avanceActividades": 0.3811,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -12596,7 +10652,7 @@
      "prioridad": "Baja",
      "fecha": "2026-11-30",
      "responsable": "Director/a carrera - gestor académico",
-     "entregable": "Informe final POA 2026",
+     "entregable": "Informe final POA 2025",
      "descripcion": "Informar sobre el alcance final del POA",
      "avance": 0.0,
      "observacion": "Este informe se debe presentar al final del segundo semestre.",
@@ -12608,7 +10664,7 @@
      "prioridad": "Baja",
      "fecha": "2026-11-30",
      "responsable": "Director/a carrera - gestor académico",
-     "entregable": "POA 2027",
+     "entregable": "POA 2026",
      "descripcion": "Realizar la planificación para el 2026",
      "avance": 0.0,
      "observacion": "Este informe se debe presentar al final del segundo semestre.",
@@ -12754,8 +10810,8 @@
      "responsable": "Director/a carrera -responsable de practicas y vinculación",
      "entregable": "ITV y los convenios.",
      "descripcion": "Brindar apoyo y realizar ITV de vinculación de la carrera",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deben subir los documentos del ciclo 2026-II.",
+     "avance": 0.25,
+     "observacion": "NO existe información de los ITVs sobre el ciclo 2026-I. En el segundo semestre se deben subir los documentos del ciclo 2026-II.",
      "estado": false
     },
     {
@@ -12766,8 +10822,8 @@
      "responsable": "Director/a carrera -responsable de practicas y vinculación",
      "entregable": "Informe de la divulgación.",
      "descripcion": "Realizar la divulgación de los resultados de los proyectos de vinculación",
-     "avance": 0.5,
-     "observacion": "En el segundo semestre se deben subir los documentos del ciclo 2026-II.",
+     "avance": 0.0,
+     "observacion": "NO existen estas evidencias.",
      "estado": false
     },
     {
@@ -12853,78 +10909,6 @@
      "avance": 0.0,
      "observacion": "NO constan estas evidencias.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.07894736842",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.6052631579",
-     "prioridad": null,
-     "fecha": "23",
-     "responsable": "Realizado por : Mgs. Marco Panza",
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.02631578947",
-     "prioridad": null,
-     "fecha": "1",
-     "responsable": "COORDINADOR DE LA CARRERA DE PRODUCCIÓN Y REALIZACIÓN AUDIOVISUAL CON NIVEL EQUIVALENTE A TECNOLOGÍA SUPERIOR",
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.2894736842",
-     "prioridad": null,
-     "fecha": "11",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "PRODUCCIÓN Y REALIZACIÓN AUDIOVISUAL CON NIVEL EQUIVALENTE A TECNOLOGÍA SUPERIOR"
@@ -12935,9 +10919,9 @@
    "titulo": "Plantilla de Gestión por Resultados Carrera Tecnología Superior en Seguridad Penitenciaria",
    "categoria": "Carrera",
    "responsable": "Diaz Herrera Cruz Germania",
-   "avance": 0.3632,
-   "avanceActividades": 0.3632,
-   "totalActividades": 44,
+   "avance": 0.3237,
+   "avanceActividades": 0.3237,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -13259,7 +11243,7 @@
      "responsable": "Director de carrera / Coordinador de carreras",
      "entregable": "Recopilar los documentos de los estudiantes de titulación.",
      "descripcion": "Realizar el análisis de la opción de titulación para los estudiantes",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "NO consta esta evidencia.",
      "estado": true
     },
@@ -13271,7 +11255,7 @@
      "responsable": "Director de carrera / Coordinador de carreras",
      "entregable": "Aprobación de la documentación a titulación.",
      "descripcion": "Revisar y coordinar la aprobación de documentos para el ingreso a la unidad de integración curricular",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "NO consta esta evidencia.",
      "estado": true
     },
@@ -13283,7 +11267,7 @@
      "responsable": "Director de carrera / Coordinador de carreras",
      "entregable": "Matriz de datos de estudiantes a titularse",
      "descripcion": "Realizar la lista de estudiantes a titularse",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "NO consta esta evidencia.",
      "estado": true
     },
@@ -13394,78 +11378,6 @@
      "avance": 0.0,
      "observacion": "NO consta esta evidencia.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.07894736842",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.5263157895",
-     "prioridad": null,
-     "fecha": "20",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.3421052632",
-     "prioridad": null,
-     "fecha": "13",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "SEGURIDAD PENITENCIARIA"
@@ -13476,9 +11388,9 @@
    "titulo": "Plantilla de Gestión por Resultados de la Carrera Tecnología Superior en Seguridad y Prevención de Riesgos Laborales",
    "categoria": "Carrera",
    "responsable": "Martinez Herrera Pedro David",
-   "avance": 0.4868,
-   "avanceActividades": 0.4868,
-   "totalActividades": 44,
+   "avance": 0.375,
+   "avanceActividades": 0.375,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -13524,7 +11436,7 @@
      "responsable": "Responsable de moodle de la carrera",
      "entregable": "Informe de socialización / inducción a los docentes.",
      "descripcion": "Realizar la socialización y generar un informe sobre el uso del Moodle",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "NO existe esta evidencia",
      "estado": true
     },
@@ -13536,7 +11448,7 @@
      "responsable": "Responsable de moodle de la carrera",
      "entregable": "Informe de actividades en la plataforma Moodle.",
      "descripcion": "Controlar el uso adecuado de la plataforma y generar un informe.",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "NO existe esta evidencia",
      "estado": true
     },
@@ -13656,8 +11568,8 @@
      "responsable": "Coordinador/a carrera - gestor académico",
      "entregable": "Convocatorias, actas e informes de reuniones de carrera.",
      "descripcion": "Reuniones de carrera de acuerdo a requerimientos",
-     "avance": 0.5,
-     "observacion": "La documentación que se encuentra subida es de un ciclo que no coresponde, es la del 2025-II. En el segundo semestre se debe subir la documentación del ciclo 2026-I y del ciclo 2026-II en el segundo semestre.",
+     "avance": 0.0,
+     "observacion": "En el segundo semestre se debe subir la documentación del ciclo 2026-I y del ciclo 2026-II en el segundo semestre.",
      "estado": true
     },
     {
@@ -13776,7 +11688,7 @@
      "responsable": "Responsable plataforma Moodle de la carrera",
      "entregable": "Informe sobre la capacitación",
      "descripcion": "Generar la capacitación estudiantil sobre el Moodle",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "NO constan las evidencias de este objetivo, son 2 informes, uno para el ciclo 2026-I y otro para el ciclo 2026-II.",
      "estado": false
     },
@@ -13836,7 +11748,7 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "ITV y los convenios.",
      "descripcion": "Brindar apoyo y realizar ITV de vinculación de la carrera",
-     "avance": 0.5,
+     "avance": 0.25,
      "observacion": "NO constan los convenios del ciclo 2026-I. En el segundo semestre se deberá subir la información del ciclo 2026-II.",
      "estado": true
     },
@@ -13848,7 +11760,7 @@
      "responsable": "Coordinador/a carrera -responsable de practicas y vinculación",
      "entregable": "Informe de la divulgación.",
      "descripcion": "Realizar la divulgación de los resultados de los proyectos de vinculación",
-     "avance": 0.5,
+     "avance": 0.0,
      "observacion": "NO consta esta evidencia.",
      "estado": true
     },
@@ -13896,8 +11808,8 @@
      "responsable": "Coordinador de carrera - Gestor académico - Bienestar institucional",
      "entregable": "Informe de formación en valores y desarrollo de habilidades blandas",
      "descripcion": "Realizar un curso de habilidades blandas que se desarrollara para todo el instituto",
-     "avance": 0.5,
-     "observacion": "En el ciclo 2026-II se debe complementar la información.",
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": true
     },
     {
@@ -13908,8 +11820,8 @@
      "responsable": "Coordinador de Carrera Gestor Académico",
      "entregable": "Matrices de la oferta académica.",
      "descripcion": "Generación de matrices de oferta académica para la captación de más estudiantes",
-     "avance": 0.5,
-     "observacion": "En el ciclo 2026-II se debe complementar la información.",
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": true
     },
     {
@@ -13920,8 +11832,8 @@
      "responsable": "Coordinador de Carrera Gestor Académico",
      "entregable": "Listado certificado de matriculados de la carrera",
      "descripcion": "Planificar la demanda institucional en base a históricos de periodos anteriores",
-     "avance": 0.5,
-     "observacion": "En el ciclo 2026-II se debe complementar la información.",
+     "avance": 0.0,
+     "observacion": "NO consta esta evidencia.",
      "estado": true
     },
     {
@@ -13935,78 +11847,6 @@
      "avance": 0.0,
      "observacion": "NO consta esta evidencia.",
      "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1052631579",
-     "prioridad": null,
-     "fecha": "4",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.7631578947",
-     "prioridad": null,
-     "fecha": "29",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0",
-     "prioridad": null,
-     "fecha": "0",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.1315789474",
-     "prioridad": null,
-     "fecha": "5",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR EN SEGURIDAD Y PREVENCIÓN DE RIESGOS LABORALES"
@@ -14019,7 +11859,7 @@
    "responsable": "Jeton Mogrovejo Jorge Luis",
    "avance": 0.4276,
    "avanceActividades": 0.4079,
-   "totalActividades": 44,
+   "totalActividades": 39,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -14488,66 +12328,6 @@
      "avance": null,
      "observacion": null,
      "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.07894736842",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.6315789474",
-     "prioridad": null,
-     "fecha": "24",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.05263157895",
-     "prioridad": null,
-     "fecha": "2",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Coordinador Tecnología Superior Universitaria en Entrenamiento Deportivo",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.2368421053",
-     "prioridad": null,
-     "fecha": "9",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "CARRERA DE ENTRENAMIENTO DEPORTIVO CON EQUIVALENCIA A TECNOLOGÍA SUPERIOR"
@@ -14560,7 +12340,7 @@
    "responsable": "Jeton Mogrovejo Jorge Luis",
    "avance": 0.4079,
    "avanceActividades": 0.4276,
-   "totalActividades": 44,
+   "totalActividades": 38,
    "actividades": [
     {
      "objetivo": "OBJETIVO OPERATIVO 1",
@@ -15017,78 +12797,6 @@
      "avance": 0.5,
      "observacion": "En el segundo semestre se debe complementar la información del ciclo 2026-II.",
      "estado": false
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "%",
-     "prioridad": null,
-     "fecha": "N° IND",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.07894736842",
-     "prioridad": null,
-     "fecha": "3",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.6842105263",
-     "prioridad": null,
-     "fecha": "26",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.02631578947",
-     "prioridad": null,
-     "fecha": "1",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": "Coordinador Entrenamiento Deportivo con nivel equivalente a Tecnología Superior",
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "0.2105263158",
-     "prioridad": null,
-     "fecha": "8",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
-    },
-    {
-     "objetivo": "OBJETIVO OPERATIVO 1",
-     "tarea": "1",
-     "prioridad": null,
-     "fecha": "38",
-     "responsable": null,
-     "entregable": null,
-     "descripcion": null,
-     "avance": null,
-     "observacion": null,
-     "estado": true
     }
    ],
    "nombreOficial": "TECNOLOGÍA SUPERIOR UNIVERSITARIA EN ENTRENAMIENTO DEPORTIVO"
