@@ -10,5 +10,6 @@ urlpatterns = [
     path("panel/", views.panel, name="panel"),
     path("panel/login/", views.panel_login, name="panel_login"),
     path("panel/salir/", views.panel_logout, name="panel_logout"),
+    path("panel/reporte/<str:tipo>/", views.descargar_reporte, name="descargar_reporte"),
     path("panel/restaurar/<str:nombre>/", views.restaurar_respaldo, name="restaurar_respaldo"),
 ]

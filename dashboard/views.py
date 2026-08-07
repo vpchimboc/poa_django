@@ -251,3 +251,27 @@ def restaurar_respaldo(request, nombre):
     cargar_poa.cache_clear()
     messages.success(request, f"Se restauró el respaldo {nombre}.")
     return redirect("panel")
+
+
+# ---------------------------------------------------------------------------
+# Reportes en Word (.docx)
+# ---------------------------------------------------------------------------
+
+from .reportes import REPORTES, generar_informe
+
+DOCX_MIME = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+
+@es_admin
+def descargar_reporte(request, tipo):
+    if tipo not in REPORTES:
+        messages.error(request, "Tipo de informe no válido.")
+        return redirect("panel")
+    try:
+        buffer, nombre = generar_informe(cargar_poa(), tipo)
+    except Exception as exc:  # noqa: BLE001
+        messages.error(request, f"No se pudo generar el informe: {exc}")
+        return redirect("panel")
+    response = HttpResponse(buffer.getvalue(), content_type=DOCX_MIME)
+    response["Content-Disposition"] = f'attachment; filename="{nombre}"'
+    return response

@@ -77,6 +77,25 @@
         </section>
 
         <section class="panel">
+          <h2 style="margin-top: 0">Informes en Word</h2>
+          <p class="muted" style="font-size: 13px">
+            Genera el informe con los datos actuales del dashboard: portada, antecedentes,
+            objetivos, tabla y gráfico de avance general, detalle por unidad con actividades,
+            evidencias, conclusiones y recomendaciones.
+          </p>
+          <ul class="hist">
+            <li><span>POA institucional general</span>
+              <a href="{% url 'descargar_reporte' 'institucional' %}">Descargar .docx</a></li>
+            <li><span>Unidades administrativas</span>
+              <a href="{% url 'descargar_reporte' 'administrativas' %}">Descargar .docx</a></li>
+            <li><span>Unidades académicas</span>
+              <a href="{% url 'descargar_reporte' 'academicas' %}">Descargar .docx</a></li>
+            <li><span>Carreras</span>
+              <a href="{% url 'descargar_reporte' 'carreras' %}">Descargar .docx</a></li>
+          </ul>
+        </section>
+
+        <section class="panel">
           <h2 style="margin-top: 0">Respaldos</h2>
           {% if historial %}
             <ul class="hist">
